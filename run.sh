@@ -1,0 +1,1 @@
+carton exec perl tweet.pl $@
